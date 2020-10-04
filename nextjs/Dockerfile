@@ -1,0 +1,3 @@
+FROM node:12.17
+EXPOSE 3000
+WORKDIR /frontend
